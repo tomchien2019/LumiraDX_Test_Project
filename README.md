@@ -9,11 +9,11 @@ Folder Stucture
 --------------------
 Project Name
   |
-  base
+  base (Base Functions)
   |
-  testCases
+  testCases (4 Test cases GET, POST, PUT, DELETE Request for LumiraDX API categorry)
   | 
-  utilities
+  utilities (ExtentManager)
   
   |
   logs (Test log/logger retsApi.log)
