@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="LumiraDX_Test_Project">
+	
+	<test name="TC001_GET_Request_Categories" allow-return-values="true">
+		<classes>
+			<class name="com.LumiraDX_Test_Project.testCases.TC001_GET_Request_Categories" />
+		</classes>
+	</test>
+	
+	<test name="TC002_POST_Request_Categories" allow-return-values="true">
+		<classes>
+			<class name="com.LumiraDX_Test_Project.testCases.TC002_POST_Request_Categories" />
+		</classes>
+	</test>
+	
+	<test name="TC003_PUT_Request_Categories" allow-return-values="true">
+		<classes>
+			<class name="com.LumiraDX_Test_Project.testCases.TC003_PUT_Request_Categories" />
+		</classes>
+	</test>
+	
+	<test name="TC004_DELETE_Request_Categories" allow-return-values="true">
+		<classes>
+			<class name="com.LumiraDX_Test_Project.testCases.TC004_DELETE_Request_Categories" />
+		</classes>
+	</test>
+	
+</suite>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.LumiraDX_Test_Project.testCases.TC003_PUT_Request_Categories">
+        <methods>
+          <include name="checkContentLength"/>
+          <include name="getAllEmployee"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.LumiraDX_Test_Project.testCases.TC003_PUT_Request_Categories -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

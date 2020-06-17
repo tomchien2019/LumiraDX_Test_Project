@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LumiraDX_Test_Project]">
+  <test thread-count="5" name="TC003_PUT_Request_Categories(failed)">
+    <classes>
+      <class name="com.LumiraDX_Test_Project.testCases.TC003_PUT_Request_Categories">
+        <methods>
+          <include name="quit"/>
+          <include name="getAllEmployee"/>
+          <include name="checkStatusCode"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.LumiraDX_Test_Project.testCases.TC003_PUT_Request_Categories -->
+    </classes>
+  </test> <!-- TC003_PUT_Request_Categories(failed) -->
+  <test thread-count="5" name="TC004_DELETE_Request_Categories(failed)">
+    <classes>
+      <class name="com.LumiraDX_Test_Project.testCases.TC004_DELETE_Request_Categories">
+        <methods>
+          <include name="checkStatusCode"/>
+          <include name="setup"/>
+          <include name="quit"/>
+          <include name="getAllEmployee"/>
+        </methods>
+      </class> <!-- com.LumiraDX_Test_Project.testCases.TC004_DELETE_Request_Categories -->
+    </classes>
+  </test> <!-- TC004_DELETE_Request_Categories(failed) -->
+</suite> <!-- Failed suite [LumiraDX_Test_Project] -->

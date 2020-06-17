@@ -1,0 +1,174 @@
+2020-06-16 18:54:02 INFO  EmployeesRestAPI:35 - ******* Start TC001_Get_All_Categories *******
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:133 - *********  Checking content encoding ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:137 - Content length is ==> 113
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:118 - *********  Checking Content Type ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:122 - Content type is ==> application/json
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:61 - *********  Checking Response Body ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:65 - Response Body ==> [
+    {
+        "id": 2,
+        "name": "Politics"
+    },
+    {
+        "id": 3,
+        "name": "Tech"
+    }
+]
+
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:88 - *********  Checking Response Time ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:91 - Response Time is ==> 324
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:74 - *********  Checking Status Code ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:78 - Status Code is ==> 200
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:105 - *********  Checking Status Line ******** 
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:109 - Status Line is ==> HTTP/1.0 200 OK
+2020-06-16 18:54:03 INFO  EmployeesRestAPI:150 - *********  Finished TC001_Get_All_Categories **********
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:35 - ******* Start TC001_Get_All_Categories *******
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:133 - *********  Checking content encoding ******** 
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:137 - Content length is ==> 113
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:118 - *********  Checking Content Type ******** 
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:122 - Content type is ==> application/json
+2020-06-16 19:05:04 INFO  EmployeesRestAPI:61 - *********  Checking Response Body ******** 
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:65 - Response Body ==> [
+    {
+        "id": 2,
+        "name": "Politics"
+    },
+    {
+        "id": 3,
+        "name": "Tech"
+    }
+]
+
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:88 - *********  Checking Response Time ******** 
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:91 - Response Time is ==> 314
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:74 - *********  Checking Status Code ******** 
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:78 - Status Code is ==> 200
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:105 - *********  Checking Status Line ******** 
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:109 - Status Line is ==> HTTP/1.0 200 OK
+2020-06-16 19:05:05 INFO  EmployeesRestAPI:150 - *********  Finished TC001_Get_All_Categories **********
+2020-06-16 19:15:48 INFO  EmployeesRestAPI:35 - ******* Started TC002_POST_Categories_Record *******
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:80 - *********  Checking content length ******** 
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:84 - Content length is ==> 5
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:98 - *********  Checking Content Type ******** 
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:102 - Content type is ==> application/json
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:112 - *********  Checking Response Time ******** 
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:115 - Response Time is ==> 407
+2020-06-16 19:15:54 INFO  EmployeesRestAPI:71 - Status code is ==> 201
+2020-06-16 19:16:40 INFO  EmployeesRestAPI:35 - ******* Started TC002_POST_Categories_Record *******
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:80 - *********  Checking content length ******** 
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:84 - Content length is ==> 5
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:98 - *********  Checking Content Type ******** 
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:102 - Content type is ==> application/json
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:112 - *********  Checking Response Time ******** 
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:115 - Response Time is ==> 392
+2020-06-16 19:16:46 INFO  EmployeesRestAPI:71 - Status code is ==> 201
+2020-06-16 19:21:49 INFO  EmployeesRestAPI:36 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:21:54 INFO  EmployeesRestAPI:82 - *********  Checking Content Type ******** 
+2020-06-16 19:21:54 INFO  EmployeesRestAPI:86 - Content type is ==> application/json
+2020-06-16 19:21:54 INFO  EmployeesRestAPI:96 - *********  Checking Response Time ******** 
+2020-06-16 19:21:54 INFO  EmployeesRestAPI:99 - Response Time is ==> 408
+2020-06-16 19:21:54 INFO  EmployeesRestAPI:72 - Status code is ==> 204
+2020-06-16 19:23:25 INFO  EmployeesRestAPI:36 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:23:31 INFO  EmployeesRestAPI:82 - *********  Checking Content Type ******** 
+2020-06-16 19:23:31 INFO  EmployeesRestAPI:86 - Content type is ==> application/json
+2020-06-16 19:23:31 INFO  EmployeesRestAPI:96 - *********  Checking Response Time ******** 
+2020-06-16 19:23:31 INFO  EmployeesRestAPI:99 - Response Time is ==> 307
+2020-06-16 19:23:31 INFO  EmployeesRestAPI:72 - Status code is ==> 204
+2020-06-16 19:28:50 INFO  EmployeesRestAPI:37 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:28:56 INFO  EmployeesRestAPI:75 - *********  Checking Content Type ******** 
+2020-06-16 19:28:56 INFO  EmployeesRestAPI:78 - Content type is ==> application/json
+2020-06-16 19:28:56 INFO  EmployeesRestAPI:89 - *********  Checking Response Time ******** 
+2020-06-16 19:28:56 INFO  EmployeesRestAPI:92 - Response Time is ==> 414
+2020-06-16 19:28:56 INFO  EmployeesRestAPI:65 - Status code is ==> 204
+2020-06-16 19:29:40 INFO  EmployeesRestAPI:35 - ******* Start TC001_Get_All_Categories *******
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:133 - *********  Checking content encoding ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:137 - Content length is ==> 169
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:118 - *********  Checking Content Type ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:122 - Content type is ==> application/json
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:61 - *********  Checking Response Body ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:65 - Response Body ==> [
+    {
+        "id": 2,
+        "name": "Politics"
+    },
+    {
+        "id": 3,
+        "name": "Tech"
+    },
+    {
+        "id": 5,
+        "name": "Physics"
+    }
+]
+
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:88 - *********  Checking Response Time ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:91 - Response Time is ==> 334
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:74 - *********  Checking Status Code ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:78 - Status Code is ==> 200
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:105 - *********  Checking Status Line ******** 
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:109 - Status Line is ==> HTTP/1.0 200 OK
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:150 - *********  Finished TC001_Get_All_Categories **********
+2020-06-16 19:29:41 INFO  EmployeesRestAPI:35 - ******* Started TC002_POST_Categories_Record *******
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:80 - *********  Checking content length ******** 
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:84 - Content length is ==> 5
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:98 - *********  Checking Content Type ******** 
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:102 - Content type is ==> application/json
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:112 - *********  Checking Response Time ******** 
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:115 - Response Time is ==> 211
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:71 - Status code is ==> 201
+2020-06-16 19:29:47 INFO  EmployeesRestAPI:36 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:82 - *********  Checking Content Type ******** 
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:86 - Content type is ==> application/json
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:96 - *********  Checking Response Time ******** 
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:99 - Response Time is ==> 23
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:72 - Status code is ==> 404
+2020-06-16 19:29:52 INFO  EmployeesRestAPI:37 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:29:57 INFO  EmployeesRestAPI:75 - *********  Checking Content Type ******** 
+2020-06-16 19:29:57 INFO  EmployeesRestAPI:78 - Content type is ==> application/json
+2020-06-16 19:29:57 INFO  EmployeesRestAPI:89 - *********  Checking Response Time ******** 
+2020-06-16 19:29:57 INFO  EmployeesRestAPI:92 - Response Time is ==> 14
+2020-06-16 19:29:57 INFO  EmployeesRestAPI:65 - Status code is ==> 404
+2020-06-16 19:40:28 INFO  EmployeesRestAPI:35 - ******* Start TC001_Get_All_Categories *******
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:133 - *********  Checking content encoding ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:137 - Content length is ==> 113
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:118 - *********  Checking Content Type ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:122 - Content type is ==> application/json
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:61 - *********  Checking Response Body ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:65 - Response Body ==> [
+    {
+        "id": 2,
+        "name": "Politics"
+    },
+    {
+        "id": 3,
+        "name": "Tech"
+    }
+]
+
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:88 - *********  Checking Response Time ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:91 - Response Time is ==> 369
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:74 - *********  Checking Status Code ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:78 - Status Code is ==> 200
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:105 - *********  Checking Status Line ******** 
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:109 - Status Line is ==> HTTP/1.0 200 OK
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:150 - *********  Finished TC001_Get_All_Categories **********
+2020-06-16 19:40:29 INFO  EmployeesRestAPI:35 - ******* Started TC002_POST_Categories_Record *******
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:80 - *********  Checking content length ******** 
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:84 - Content length is ==> 5
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:98 - *********  Checking Content Type ******** 
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:102 - Content type is ==> application/json
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:112 - *********  Checking Response Time ******** 
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:115 - Response Time is ==> 113
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:71 - Status code is ==> 201
+2020-06-16 19:40:34 INFO  EmployeesRestAPI:36 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:82 - *********  Checking Content Type ******** 
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:86 - Content type is ==> application/json
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:96 - *********  Checking Response Time ******** 
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:99 - Response Time is ==> 236
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:72 - Status code is ==> 204
+2020-06-16 19:40:40 INFO  EmployeesRestAPI:37 - ******* Started TC003_PUT_Categories_Record *******
+2020-06-16 19:40:45 INFO  EmployeesRestAPI:75 - *********  Checking Content Type ******** 
+2020-06-16 19:40:45 INFO  EmployeesRestAPI:78 - Content type is ==> application/json
+2020-06-16 19:40:45 INFO  EmployeesRestAPI:89 - *********  Checking Response Time ******** 
+2020-06-16 19:40:45 INFO  EmployeesRestAPI:92 - Response Time is ==> 103
+2020-06-16 19:40:45 INFO  EmployeesRestAPI:65 - Status code is ==> 204
